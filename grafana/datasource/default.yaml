@@ -1,0 +1,12 @@
+apiVersion: 1
+datasources:
+  - name: telegraf
+    type: influxdb
+    orgId: 1
+    uid: 111
+    url: http://influxdb:8086
+    database: metrics
+    basicAuth: true
+    password: 'admin'
+    basicAuthUser: 'admin'
+    basicAuthPassword: 'admin'

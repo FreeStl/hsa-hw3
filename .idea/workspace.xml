@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08b2580d-9d9f-40c1-9c0a-a44c673a6d83" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grafana/dashboards/default.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grafana/dashboards/tig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grafana/datasource/default.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grafana/screenshots/docker/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grafana/screenshots/docker/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grafana/screenshots/es/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grafana/screenshots/es/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grafana/screenshots/es/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grafana/screenshots/es/img_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grafana/screenshots/mongo/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grafana/screenshots/mongo/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grafana/screenshots/nginx/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grafana/screenshots/system/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grafana/screenshots/system/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grafana/screenshots/system/img_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hsa-hw-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3Plan.jmx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mongo-init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nginx/nginx.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/telegraf.conf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2SL0HjetZAmIBPodJO1JRAMWOkM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/maxim.nazaruk/IdeaProjects/hsa-hw-3",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maxim.nazaruk\IdeaProjects\hsa-hw-3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.docker-compose.yaml.influxdb: Compose Deployment">
+    <configuration name="docker-compose.yaml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker2">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yaml.app: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker2">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="app" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yaml.grafana: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker2">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="grafana" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="docker-compose.yaml.influxdb: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker2">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="influxdb" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="docker-compose.yaml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yaml.influxdb: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yaml: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yaml.app: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yaml.grafana: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08b2580d-9d9f-40c1-9c0a-a44c673a6d83" name="Changes" comment="" />
+      <created>1688910468931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688910468931</updated>
+      <workItem from="1688910470335" duration="5934000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
